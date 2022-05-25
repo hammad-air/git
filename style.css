@@ -139,6 +139,9 @@ html{
     padding-top: -100px;
     padding-bottom: -100px;
 }
+.spans{
+color: #f89901;
+}
 .main-welcome{
     display: flex;
     justify-content: center;
